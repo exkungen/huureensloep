@@ -1,0 +1,11 @@
+.col {
+  -webkit-box-shadow: 0 2px 2px 	#C8C8C8;
+  -moz-box-shadow: 0 2px 2px 	#C8C8C8;
+  box-shadow: 0 2px 2px 	#C8C8C8;
+  margin: 10px;
+  display: inline-block; }
+  .col img {
+    float: left;
+    margin: 5px; }
+
+/*# sourceMappingURL=route.css.map */

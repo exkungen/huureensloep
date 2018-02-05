@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,QAAS,CACP,UAAU,CAAE,IAAI,CAIlB,IAAK,CACH,KAAK,CAAE,OAAO,CACd,WAAW,CAAE,IAAI,CACnB,OAAO,CAAE,YAAY,CACnB,MAAM,CAAE,IAAI,CAIZ,QAAI,CACF,YAAY,CAAE,GAAG,CACjB,KAAK,CAAE,IAAI",
+"sources": ["../sass/instructie.scss"],
+"names": [],
+"file": "instructie.css"
+}

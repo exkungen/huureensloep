@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,QAAS,CAEP,KAAK,CAAE,OAAO,CACd,OAAO,CAAE,IAAI,CACb,gBAAgB,CAAE,OAAO,CACzB,aAAa,CAAE,IAAI",
+"sources": ["../sass/locatie.scss"],
+"names": [],
+"file": "locatie.css"
+}

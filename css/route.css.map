@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAK;EAED,kBAAkB,EAAC,kBAAkB;EACrC,eAAe,EAAC,kBAAkB;EAClC,UAAU,EAAC,kBAAkB;EACjC,MAAM,EAAE,IAAI;EAEZ,OAAO,EAAE,YAAY;EACjB,QAAI;IACA,KAAK,EAAE,IAAI;IACX,MAAM,EAAE,GAAG",
+"sources": ["../sass/style.scss"],
+"names": [],
+"file": "route.css"
+}
